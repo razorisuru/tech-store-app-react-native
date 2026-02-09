@@ -1,0 +1,175 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Anker Soundcore R50i NC True Wireless Earbuds",
+            "description": "Active Noise Cancelling, 30-Hour Playtime, Custom EQ",
+            "price": 6999,
+            "originalPrice": 8999,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDexvBvNGfLb6EAEeWe4s1kxPwlPP3anDpWmf4eedvQuonZPmg-9XgKMRghibiOs7iL3PxKU5omD1dx9ITXdDFtfxdsqd51LDv8p-UgVgLRf81zzJEwOks7gUPFYVz7yidUilJGqnlsU-q0snn8U9br5U6OdOsyJ0wtVqk5z0XLBdJqtDA3GV3t1ZffKF8QQoCO8aU0dgUe2bbVRtg9xeR5Qx3F4tWlg3LIN0r0TMncQJeZ6AATWNLiL_dnHYaupKAcZXDQKWJuUUWq",
+            "category": "headphones",
+            "brand": "Anker",
+            "rating": 4.8,
+            "reviews": 1245,
+            "inStock": true,
+            "isNew": true,
+            "isTrending": true,
+            "specs": {
+                "Color": "Space Black",
+                "Warranty": "1 Year"
+            }
+        },
+        {
+            "id": "2",
+            "name": "iPhone 15 FineWoven Case with MagSafe",
+            "description": "Premium FineWoven material with MagSafe compatibility",
+            "price": 18500,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB6_YldSQD1mdODY0iHwKESDudiMQN4mcXjOCu8NSvrWug09i2UF6AQ6gHB8MdSzSZM0y3NhzudrJMRT7AeiDdSKrfbwawZ87bQ4ZVqVr7dw5SbcQK3C_Hth7oreieUP6xyeWIjca0Nj97SjfM9ifo-WMG-I2svNNrFQXXD0RVKQLW5aGAZfvO91RZ_z2xZG8Dja2N7NC8C1BEIq3HVB89CpHa9cuq5BBfPGKMRPYrL2eK1_ynQfaWHKXF81GeXjwiJw82DAHDU1UZu",
+            "category": "accessories",
+            "brand": "Apple",
+            "rating": 4.9,
+            "reviews": 892,
+            "inStock": true,
+            "isTrending": true,
+            "specs": {
+                "Color": "Evergreen",
+                "Material": "Silicone"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Anker Nano 3 47W USB-C Charger",
+            "description": "Compact USB-C charger with fast charging support",
+            "price": 7499,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB6IsJJWnVBJw0CkgQ9xOQv4A8BrOMKpxB8dj8YXwBoKuD7qaQf7btRXWGk5_lQnYYh1h6WUhPmauRKnXCQStL0APSn-LjUOgIY2nvl_rcFd42zoVSQ3kWpihiAQIgB-iAWRdzri1zMKqRZgn_HsbXWmGChqh8jlkO4ZD3pHFleSghb79SG7MENC5Qwfg-5WqQzV2nlAsvX1-aG2k6CXCjXez3kuiJMeV86J15oXWbGolfJm-Bv4ZWJzqc-FLH8vv8xCOrUp-ty4k7m",
+            "category": "power",
+            "brand": "Anker",
+            "rating": 4.7,
+            "reviews": 567,
+            "inStock": true,
+            "isNew": true,
+            "specs": {
+                "Color": "Arctic White",
+                "Wattage": "47W"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Belkin BoostCharge 45W",
+            "description": "Dual port charger with USB-C PD and USB-A",
+            "price": 5499,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBhDdYzMeQPy55SLicqCAnaCJXDyorjOTN2KLU1bqVdJk-zlgd6PZDGX3sw0T8DO-geCAvBEma8CGFc2TGGQvG3OP1JkxZZzrwH4HiQgUO4JNyXk1M7W6wV93Sn1bnj1EdC_qv3Aget_ZvP2409MTBL10_0yDUzgrMDnaNocFY5rmnWOWB4QdY5by-PKz8_CzTYsSNM6gtLfEFyFY4Jk-ZUxlKqyA0E7FsmCJurOyxUiaCtSB0_WG_hrbwsCkqG7S6yK9HsbSYyugy9",
+            "category": "power",
+            "brand": "Belkin",
+            "rating": 4.6,
+            "reviews": 423,
+            "inStock": true,
+            "specs": {
+                "Color": "White",
+                "Ports": "2"
+            }
+        },
+        {
+            "id": "5",
+            "name": "Soundcore R50i TWS",
+            "description": "True wireless earbuds with deep bass",
+            "price": 8999,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBhyckl80UVPzGUtRPM48lzEqhn5M9ZYaoqCNQ_5WIDmCMxvd8hejflQayZ4S6Z-IQCM6MGApQeOlYzx_33X2qfsx-AvQGoEmdE57ZcJOZ96NL_Bhcd-M23gn1nY6cShmUNRyCXyo-0V3enu5SjrvhoYv97bMEsx2bMASMpZKo3GBDcivPxNnpMMlSnyKyhbM02yngBL4FfdWZ1npcOIup7W_h03usmYArbE4hqslTTPVptYGpXWk-5OoRLEP2kEKY9uOocZSY26Uzj",
+            "category": "headphones",
+            "brand": "Anker",
+            "rating": 4.5,
+            "reviews": 234,
+            "inStock": false,
+            "specs": {
+                "Color": "Black",
+                "Battery": "30 Hours"
+            }
+        },
+        {
+            "id": "6",
+            "name": "ScreenBar Halo Monitor Light",
+            "description": "Perfect lighting for your desk, auto-dimming",
+            "price": 18500,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAdASCuEgajE5rlaRMCEGiXe9AkE7DhQ5Ap5-TBWGDMSwIsdC2r_Ik6bubo9KMqbjDhF9sT5s_V_2vCNdfbID32WPnPLg7MqcZBT68tJHbT_5Ts_j2-xw-BLM852kiJY80zSb0_qJDVpnYtNQsAW2MlNTQS2m2ZAzwN1wHmWFYAhUis9Wlh9ubZ2igPaZnnWfb4gbWX6fAiqVlOhBFPhWQ8QKZ3tzowJQr94w_kgAkhp-rlL7NTSqSk7NeU90fHoQIeJfQaWYoIiZXR",
+            "category": "smart-home",
+            "brand": "BenQ",
+            "rating": 4.9,
+            "reviews": 678,
+            "inStock": true,
+            "isTrending": true,
+            "specs": {
+                "Type": "Monitor Light",
+                "Features": "Auto-Dimming"
+            }
+        },
+        {
+            "id": "7",
+            "name": "Leather Desk Mat",
+            "description": "Premium leather desk mat for your creative space",
+            "price": 4200,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAF8vfBOJO9imGd6_hYzfZFXpu1-P4LHp4S9WEug7trkb4pMOTYOTNNTn7P2PYVYNZszfgwiFkvi4JyNUEQo23ikTUDL-fn3uV2LRd8bMDqC85R3Wy9VmG-6UcJ7vcsVX4RPtJBly4QUrFp-teD5kx9YHyIaEMSzWQ4UY7v7vq4GVKBuGv38j3MxQPmY3OLPGlK-PfMxq2VY3urNGY1lB-Wj-F9adJJq1gIOTwaFRfmC3o2ePhiYQ_vw8KbouJnWaZMcD7GeQ-PZQFj",
+            "category": "accessories",
+            "brand": "Orbitkey",
+            "rating": 4.8,
+            "reviews": 345,
+            "inStock": true,
+            "isTrending": true,
+            "specs": {
+                "Size": "80x40cm",
+                "Material": "Premium Leather"
+            }
+        },
+        {
+            "id": "8",
+            "name": "MacBook Air M2",
+            "description": "Apple M2 chip, 8GB RAM, 256GB SSD",
+            "price": 129900,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA6tByc7ys2veWsWOAVYJBom9db-XcH27hYLZ7u9MniTbej-Blh-cI30kSq86Xccc_V6Xxg1KBOXsqlDJWKzlL6LnUv2RiA8SO4VNScOyXWH1nlUlOUsmccvT6Sq-CV34NwpuyVxiT5EWLaUisDINvfeHbBb8LLAtymYlID0Rk4fi7ajMu1NNSPwP_ZZUR_sq-jKI6Kl7Ki33mqpG1ymOy6LsSq7-Ff7r-1D8QLVfqu9u6iQbq0HX25K6EflFqa9JfWrqsUrNHP9t3q",
+            "category": "apple",
+            "brand": "Apple",
+            "rating": 5.0,
+            "reviews": 2341,
+            "inStock": true,
+            "isTrending": true,
+            "specs": {
+                "RAM": "8GB",
+                "Storage": "256GB SSD",
+                "Color": "Midnight Blue"
+            }
+        },
+        {
+            "id": "9",
+            "name": "Xiaomi Home Security Camera",
+            "description": "360° coverage, night vision, two-way audio",
+            "price": 4999,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBZEGkdtjAX2FjAecipcFTbXYyK4tps8pQBDAoicafu2pnC3SwwElT9vzRsBtqMon9KZJt7aTZgxVgh-_0d4dFbZCaJCr8lQ3-ShzdBlH9I0k_-kF5qhWm2AbIW03P8O5AxQWe34JkIJD4s_KyhmJJcm95F3svSxlVVZKm5OQzeyqvj9FMWy7mrAmP2rqTiBspTFysvflXrAi1ZdBdbHmCx14Z0-dTmM3mHT-onH2u8C_RIYVsv6NmvOCLD0qiwGw0iXgKcTlJ5p89M",
+            "category": "smart-home",
+            "brand": "Xiaomi",
+            "rating": 4.6,
+            "reviews": 1872,
+            "inStock": true,
+            "isNew": true,
+            "specs": {
+                "Resolution": "1080p",
+                "Features": "Night Vision, Two-Way Audio"
+            }
+        },
+        {
+            "id": "10",
+            "name": "Dell XPS 13 Plus",
+            "description": "Intel Core i7, 16GB RAM, 512GB SSD",
+            "price": 164900,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCiPnKoVxL-hGyBJFcgkCxb8obpohfmeMZo_BN276iIAnba0PR-3TQDzZE67CM-W9uYZJfLKCzgqKKoYRyUxw_Venv_Gy-tsquvLfVWNPZWYMqORGKPtaXrhuSaw11eDvd7pcTSjaWT_ywPD-8HSNBCfifDXAc587vBW4Pw6r2Ei0WK8gTZ709-PfpuV1EpVFrbbrzO0dG_MJMK1PHDZefkHb1Xjpnx9dHwWnm6Gkyo7L6Mw8tLQJXWmxsIAwiBFW4L28AQh4XruYV4",
+            "category": "laptops",
+            "brand": "Dell",
+            "rating": 4.8,
+            "reviews": 567,
+            "inStock": true,
+            "specs": {
+                "RAM": "16GB",
+                "Storage": "512GB SSD",
+                "Display": "InfinityEdge"
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "id": "headphones",
+            "name": "Headphones",
+            "icon": "headphones",
+            "productCount": 45
+        },
+        {
+            "id": "apple",
+            "name": "Apple Store",
+            "icon": "smartphone",
+            "productCount": 128
+        },
+        {
+            "id": "smart-home",
+            "name": "Smart Home",
+            "icon": "home",
+            "productCount": 67
+        },
+        {
+            "id": "power",
+            "name": "Power",
+            "icon": "bolt",
+            "productCount": 89
+        },
+        {
+            "id": "accessories",
+            "name": "Accessories",
+            "icon": "devices",
+            "productCount": 234
+        },
+        {
+            "id": "laptops",
+            "name": "Laptops",
+            "icon": "laptop",
+            "productCount": 56
+        }
+    ]
+}

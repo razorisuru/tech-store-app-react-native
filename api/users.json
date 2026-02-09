@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Alex Thompson",
+            "email": "alex.t@razortech.com",
+            "password": "password123",
+            "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuCp_f3BuJCx5KwG2GeGFvszZZasrItWCX4__GQtDfUU1Ij_ZavJVi0LUmUbLqtaIlW9YuxzvVG9f1k9mCwmDtd9Qx_7DJ_j3qQbPg7XgnYFHSG3iGlnQEivLR44X0lENWcrruuwj5l1w0Ik8n9ymbersq5yeKulBCgV_PZFIg2xGp5mBuW7GXjKHlGDqP96Rcb5fL-U7otod_3DoOqEo0HDnfBfEi_pCv7HpR2we7w3V6V2mVuQJp98BQxpIyouQgafMo-qZP-4-a6W",
+            "isVerified": true,
+            "ordersCount": 12,
+            "wishlistCount": 8,
+            "points": 450
+        },
+        {
+            "id": "2",
+            "name": "Demo User",
+            "email": "demo@razortech.com",
+            "password": "demo123",
+            "avatar": null,
+            "isVerified": true,
+            "ordersCount": 3,
+            "wishlistCount": 5,
+            "points": 150
+        }
+    ]
+}
